@@ -1,0 +1,782 @@
+[
+  {
+    "id": "city_001",
+    "category": "ŞEHİR",
+    "answer": "İSTANBUL"
+  },
+  {
+    "id": "city_002",
+    "category": "ŞEHİR",
+    "answer": "ANKARA"
+  },
+  {
+    "id": "city_003",
+    "category": "ŞEHİR",
+    "answer": "İZMİR"
+  },
+  {
+    "id": "city_004",
+    "category": "ŞEHİR",
+    "answer": "TRABZON"
+  },
+  {
+    "id": "city_005",
+    "category": "ŞEHİR",
+    "answer": "GAZİANTEP"
+  },
+  {
+    "id": "city_006",
+    "category": "ŞEHİR",
+    "answer": "ESKİŞEHİR"
+  },
+  {
+    "id": "city_007",
+    "category": "ŞEHİR",
+    "answer": "ÇANAKKALE"
+  },
+  {
+    "id": "city_008",
+    "category": "ŞEHİR",
+    "answer": "DİYARBAKIR"
+  },
+  {
+    "id": "city_009",
+    "category": "ŞEHİR",
+    "answer": "MARDİN"
+  },
+  {
+    "id": "city_010",
+    "category": "ŞEHİR",
+    "answer": "EDİRNE"
+  },
+  {
+    "id": "city_011",
+    "category": "ŞEHİR",
+    "answer": "PARİS"
+  },
+  {
+    "id": "city_012",
+    "category": "ŞEHİR",
+    "answer": "LONDRA"
+  },
+  {
+    "id": "city_013",
+    "category": "ŞEHİR",
+    "answer": "VENEDİK"
+  },
+  {
+    "id": "country_001",
+    "category": "ÜLKE",
+    "answer": "JAPONYA"
+  },
+  {
+    "id": "country_002",
+    "category": "ÜLKE",
+    "answer": "BREZİLYA"
+  },
+  {
+    "id": "country_003",
+    "category": "ÜLKE",
+    "answer": "ARJANTİN"
+  },
+  {
+    "id": "country_004",
+    "category": "ÜLKE",
+    "answer": "AVUSTRALYA"
+  },
+  {
+    "id": "country_005",
+    "category": "ÜLKE",
+    "answer": "KANADA"
+  },
+  {
+    "id": "country_006",
+    "category": "ÜLKE",
+    "answer": "MISIR"
+  },
+  {
+    "id": "country_007",
+    "category": "ÜLKE",
+    "answer": "NORVEÇ"
+  },
+  {
+    "id": "country_008",
+    "category": "ÜLKE",
+    "answer": "PORTEKİZ"
+  },
+  {
+    "id": "country_009",
+    "category": "ÜLKE",
+    "answer": "AZERBAYCAN"
+  },
+  {
+    "id": "country_010",
+    "category": "ÜLKE",
+    "answer": "MEKSİKA"
+  },
+  {
+    "id": "country_011",
+    "category": "ÜLKE",
+    "answer": "HOLLANDA"
+  },
+  {
+    "id": "country_012",
+    "category": "ÜLKE",
+    "answer": "YENİ ZELANDA"
+  },
+  {
+    "id": "country_013",
+    "category": "ÜLKE",
+    "answer": "GÜNEY KORE"
+  },
+  {
+    "id": "animal_001",
+    "category": "HAYVAN",
+    "answer": "ZÜRAFA"
+  },
+  {
+    "id": "animal_002",
+    "category": "HAYVAN",
+    "answer": "PENGUEN"
+  },
+  {
+    "id": "animal_003",
+    "category": "HAYVAN",
+    "answer": "KANGURU"
+  },
+  {
+    "id": "animal_004",
+    "category": "HAYVAN",
+    "answer": "TİMSAH"
+  },
+  {
+    "id": "animal_005",
+    "category": "HAYVAN",
+    "answer": "KELEBEK"
+  },
+  {
+    "id": "animal_006",
+    "category": "HAYVAN",
+    "answer": "YUNUS BALIĞI"
+  },
+  {
+    "id": "animal_007",
+    "category": "HAYVAN",
+    "answer": "KUTUP AYISI"
+  },
+  {
+    "id": "animal_008",
+    "category": "HAYVAN",
+    "answer": "SU AYGIRI"
+  },
+  {
+    "id": "animal_009",
+    "category": "HAYVAN",
+    "answer": "ATEŞ BÖCEĞİ"
+  },
+  {
+    "id": "animal_010",
+    "category": "HAYVAN",
+    "answer": "ÇİTA"
+  },
+  {
+    "id": "animal_011",
+    "category": "HAYVAN",
+    "answer": "SİNCAP"
+  },
+  {
+    "id": "animal_012",
+    "category": "HAYVAN",
+    "answer": "DEVE KUŞU"
+  },
+  {
+    "id": "animal_013",
+    "category": "HAYVAN",
+    "answer": "AHTAPOT"
+  },
+  {
+    "id": "food_001",
+    "category": "YEMEK",
+    "answer": "KARNIYARIK"
+  },
+  {
+    "id": "food_002",
+    "category": "YEMEK",
+    "answer": "İSKENDER KEBAP"
+  },
+  {
+    "id": "food_003",
+    "category": "YEMEK",
+    "answer": "MERCİMEK ÇORBASI"
+  },
+  {
+    "id": "food_004",
+    "category": "YEMEK",
+    "answer": "İÇLİ KÖFTE"
+  },
+  {
+    "id": "food_005",
+    "category": "YEMEK",
+    "answer": "LAHMACUN"
+  },
+  {
+    "id": "food_006",
+    "category": "YEMEK",
+    "answer": "MANTI"
+  },
+  {
+    "id": "food_007",
+    "category": "YEMEK",
+    "answer": "BAKLAVA"
+  },
+  {
+    "id": "food_008",
+    "category": "YEMEK",
+    "answer": "KÜNEFE"
+  },
+  {
+    "id": "food_009",
+    "category": "YEMEK",
+    "answer": "HÜNKAR BEĞENDİ"
+  },
+  {
+    "id": "food_010",
+    "category": "YEMEK",
+    "answer": "SÜTLAÇ"
+  },
+  {
+    "id": "food_011",
+    "category": "YEMEK",
+    "answer": "İMAM BAYILDI"
+  },
+  {
+    "id": "food_012",
+    "category": "YEMEK",
+    "answer": "KURU FASULYE"
+  },
+  {
+    "id": "food_013",
+    "category": "YEMEK",
+    "answer": "AŞURE"
+  },
+  {
+    "id": "sport_001",
+    "category": "SPOR",
+    "answer": "BASKETBOL"
+  },
+  {
+    "id": "sport_002",
+    "category": "SPOR",
+    "answer": "VOLEYBOL"
+  },
+  {
+    "id": "sport_003",
+    "category": "SPOR",
+    "answer": "MASA TENİSİ"
+  },
+  {
+    "id": "sport_004",
+    "category": "SPOR",
+    "answer": "YAĞLI GÜREŞ"
+  },
+  {
+    "id": "sport_005",
+    "category": "SPOR",
+    "answer": "OKÇULUK"
+  },
+  {
+    "id": "sport_006",
+    "category": "SPOR",
+    "answer": "YÜZME"
+  },
+  {
+    "id": "sport_007",
+    "category": "SPOR",
+    "answer": "BİSİKLET"
+  },
+  {
+    "id": "sport_008",
+    "category": "SPOR",
+    "answer": "KAYAK"
+  },
+  {
+    "id": "sport_009",
+    "category": "SPOR",
+    "answer": "ESKRİM"
+  },
+  {
+    "id": "sport_010",
+    "category": "SPOR",
+    "answer": "HENTBOL"
+  },
+  {
+    "id": "sport_011",
+    "category": "SPOR",
+    "answer": "SATRANÇ"
+  },
+  {
+    "id": "sport_012",
+    "category": "SPOR",
+    "answer": "ATLETİZM"
+  },
+  {
+    "id": "sport_013",
+    "category": "SPOR",
+    "answer": "CİRİT"
+  },
+  {
+    "id": "film_001",
+    "category": "FİLM VE DİZİ",
+    "answer": "HABABAM SINIFI"
+  },
+  {
+    "id": "film_002",
+    "category": "FİLM VE DİZİ",
+    "answer": "SÜT KARDEŞLER"
+  },
+  {
+    "id": "film_003",
+    "category": "FİLM VE DİZİ",
+    "answer": "TOSUN PAŞA"
+  },
+  {
+    "id": "film_004",
+    "category": "FİLM VE DİZİ",
+    "answer": "NEŞELİ GÜNLER"
+  },
+  {
+    "id": "film_005",
+    "category": "FİLM VE DİZİ",
+    "answer": "GORA"
+  },
+  {
+    "id": "film_006",
+    "category": "FİLM VE DİZİ",
+    "answer": "VİZONTELE"
+  },
+  {
+    "id": "film_007",
+    "category": "FİLM VE DİZİ",
+    "answer": "ARKA SOKAKLAR"
+  },
+  {
+    "id": "film_008",
+    "category": "FİLM VE DİZİ",
+    "answer": "KAVAK YELLERİ"
+  },
+  {
+    "id": "film_009",
+    "category": "FİLM VE DİZİ",
+    "answer": "SELVİ BOYLUM AL YAZMALIM"
+  },
+  {
+    "id": "film_010",
+    "category": "FİLM VE DİZİ",
+    "answer": "KİBAR FEYZO"
+  },
+  {
+    "id": "film_011",
+    "category": "FİLM VE DİZİ",
+    "answer": "ŞABAN OĞLU ŞABAN"
+  },
+  {
+    "id": "film_012",
+    "category": "FİLM VE DİZİ",
+    "answer": "BİZİMKİLER"
+  },
+  {
+    "id": "film_013",
+    "category": "FİLM VE DİZİ",
+    "answer": "ÇOCUKLAR DUYMASIN"
+  },
+  {
+    "id": "item_001",
+    "category": "EŞYA",
+    "answer": "BUZDOLABI"
+  },
+  {
+    "id": "item_002",
+    "category": "EŞYA",
+    "answer": "ÇAMAŞIR MAKİNESİ"
+  },
+  {
+    "id": "item_003",
+    "category": "EŞYA",
+    "answer": "SAÇ KURUTMA MAKİNESİ"
+  },
+  {
+    "id": "item_004",
+    "category": "EŞYA",
+    "answer": "ÇAYDANLIK"
+  },
+  {
+    "id": "item_005",
+    "category": "EŞYA",
+    "answer": "ELEKTRİK SÜPÜRGESİ"
+  },
+  {
+    "id": "item_006",
+    "category": "EŞYA",
+    "answer": "DÜRBÜN"
+  },
+  {
+    "id": "item_007",
+    "category": "EŞYA",
+    "answer": "ŞEMSİYE"
+  },
+  {
+    "id": "item_008",
+    "category": "EŞYA",
+    "answer": "KUMANDA"
+  },
+  {
+    "id": "item_009",
+    "category": "EŞYA",
+    "answer": "ABAJUR"
+  },
+  {
+    "id": "item_010",
+    "category": "EŞYA",
+    "answer": "TERAZİ"
+  },
+  {
+    "id": "item_011",
+    "category": "EŞYA",
+    "answer": "ÇALAR SAAT"
+  },
+  {
+    "id": "item_012",
+    "category": "EŞYA",
+    "answer": "TIRNAK MAKASI"
+  },
+  {
+    "id": "item_013",
+    "category": "EŞYA",
+    "answer": "ÜTÜ MASASI"
+  },
+  {
+    "id": "job_001",
+    "category": "MESLEK",
+    "answer": "ÖĞRETMEN"
+  },
+  {
+    "id": "job_002",
+    "category": "MESLEK",
+    "answer": "İTFAİYECİ"
+  },
+  {
+    "id": "job_003",
+    "category": "MESLEK",
+    "answer": "ASTRONOT"
+  },
+  {
+    "id": "job_004",
+    "category": "MESLEK",
+    "answer": "VETERİNER"
+  },
+  {
+    "id": "job_005",
+    "category": "MESLEK",
+    "answer": "ECZACI"
+  },
+  {
+    "id": "job_006",
+    "category": "MESLEK",
+    "answer": "GÜMRÜK MÜŞAVİRİ"
+  },
+  {
+    "id": "job_007",
+    "category": "MESLEK",
+    "answer": "MİMAR"
+  },
+  {
+    "id": "job_008",
+    "category": "MESLEK",
+    "answer": "PİLOT"
+  },
+  {
+    "id": "job_009",
+    "category": "MESLEK",
+    "answer": "AŞÇI"
+  },
+  {
+    "id": "job_010",
+    "category": "MESLEK",
+    "answer": "MARANGOZ"
+  },
+  {
+    "id": "job_011",
+    "category": "MESLEK",
+    "answer": "BERBER"
+  },
+  {
+    "id": "job_012",
+    "category": "MESLEK",
+    "answer": "HEMŞİRE"
+  },
+  {
+    "id": "job_013",
+    "category": "MESLEK",
+    "answer": "ARKEOLOG"
+  },
+  {
+    "id": "proverb_001",
+    "category": "ATASÖZÜ",
+    "answer": "DAMLAYA DAMLAYA GÖL OLUR"
+  },
+  {
+    "id": "proverb_002",
+    "category": "ATASÖZÜ",
+    "answer": "AĞAÇ YAŞKEN EĞİLİR"
+  },
+  {
+    "id": "proverb_003",
+    "category": "ATASÖZÜ",
+    "answer": "ACELE İŞE ŞEYTAN KARIŞIR"
+  },
+  {
+    "id": "proverb_004",
+    "category": "ATASÖZÜ",
+    "answer": "BİRLİKTEN KUVVET DOĞAR"
+  },
+  {
+    "id": "proverb_005",
+    "category": "ATASÖZÜ",
+    "answer": "SAKLA SAMANI GELİR ZAMANI"
+  },
+  {
+    "id": "proverb_006",
+    "category": "ATASÖZÜ",
+    "answer": "İŞLEYEN DEMİR PAS TUTMAZ"
+  },
+  {
+    "id": "proverb_007",
+    "category": "ATASÖZÜ",
+    "answer": "AYAĞINI YORGANINA GÖRE UZAT"
+  },
+  {
+    "id": "proverb_008",
+    "category": "ATASÖZÜ",
+    "answer": "BUGÜNÜN İŞİNİ YARINA BIRAKMA"
+  },
+  {
+    "id": "proverb_009",
+    "category": "ATASÖZÜ",
+    "answer": "TATLI DİL YILANI DELİĞİNDEN ÇIKARIR"
+  },
+  {
+    "id": "proverb_010",
+    "category": "ATASÖZÜ",
+    "answer": "ÜZÜM ÜZÜME BAKA BAKA KARARIR"
+  },
+  {
+    "id": "proverb_011",
+    "category": "ATASÖZÜ",
+    "answer": "BİR ELİN NESİ VAR İKİ ELİN SESİ VAR"
+  },
+  {
+    "id": "proverb_012",
+    "category": "ATASÖZÜ",
+    "answer": "KOMŞU KOMŞUNUN KÜLÜNE MUHTAÇTIR"
+  },
+  {
+    "id": "proverb_013",
+    "category": "ATASÖZÜ",
+    "answer": "YUVAYI DİŞİ KUŞ YAPAR"
+  },
+  {
+    "id": "idiom_001",
+    "category": "DEYİM",
+    "answer": "KULAK ASMAMAK"
+  },
+  {
+    "id": "idiom_002",
+    "category": "DEYİM",
+    "answer": "ETEKLERİ ZİL ÇALMAK"
+  },
+  {
+    "id": "idiom_003",
+    "category": "DEYİM",
+    "answer": "AĞZI KULAKLARINA VARMAK"
+  },
+  {
+    "id": "idiom_004",
+    "category": "DEYİM",
+    "answer": "PİRE İÇİN YORGAN YAKMAK"
+  },
+  {
+    "id": "idiom_005",
+    "category": "DEYİM",
+    "answer": "GÖZDEN DÜŞMEK"
+  },
+  {
+    "id": "idiom_006",
+    "category": "DEYİM",
+    "answer": "DİLİ TUTULMAK"
+  },
+  {
+    "id": "idiom_007",
+    "category": "DEYİM",
+    "answer": "BURNU HAVADA OLMAK"
+  },
+  {
+    "id": "idiom_008",
+    "category": "DEYİM",
+    "answer": "ELİ AÇIK OLMAK"
+  },
+  {
+    "id": "idiom_009",
+    "category": "DEYİM",
+    "answer": "KILI KIRK YARMAK"
+  },
+  {
+    "id": "idiom_010",
+    "category": "DEYİM",
+    "answer": "İĞNEYLE KUYU KAZMAK"
+  },
+  {
+    "id": "idiom_011",
+    "category": "DEYİM",
+    "answer": "ÇANTADA KEKLİK"
+  },
+  {
+    "id": "idiom_012",
+    "category": "DEYİM",
+    "answer": "YÜZÜ KIZARMAK"
+  },
+  {
+    "id": "idiom_013",
+    "category": "DEYİM",
+    "answer": "GÖZÜ YÜKSEKTE OLMAK"
+  },
+  {
+    "id": "general_001",
+    "category": "GENEL KÜLTÜR",
+    "answer": "FOTOSENTEZ"
+  },
+  {
+    "id": "general_002",
+    "category": "GENEL KÜLTÜR",
+    "answer": "YERÇEKİMİ"
+  },
+  {
+    "id": "general_003",
+    "category": "GENEL KÜLTÜR",
+    "answer": "EKVATOR"
+  },
+  {
+    "id": "general_004",
+    "category": "GENEL KÜLTÜR",
+    "answer": "GÜNEŞ SİSTEMİ"
+  },
+  {
+    "id": "general_005",
+    "category": "GENEL KÜLTÜR",
+    "answer": "SAMANYOLU"
+  },
+  {
+    "id": "general_006",
+    "category": "GENEL KÜLTÜR",
+    "answer": "PİRAMİTLER"
+  },
+  {
+    "id": "general_007",
+    "category": "GENEL KÜLTÜR",
+    "answer": "ÇİN SEDDİ"
+  },
+  {
+    "id": "general_008",
+    "category": "GENEL KÜLTÜR",
+    "answer": "ATLAS OKYANUSU"
+  },
+  {
+    "id": "general_009",
+    "category": "GENEL KÜLTÜR",
+    "answer": "EVEREST DAĞI"
+  },
+  {
+    "id": "general_010",
+    "category": "GENEL KÜLTÜR",
+    "answer": "AMAZON NEHRİ"
+  },
+  {
+    "id": "general_011",
+    "category": "GENEL KÜLTÜR",
+    "answer": "ALFABE"
+  },
+  {
+    "id": "general_012",
+    "category": "GENEL KÜLTÜR",
+    "answer": "GÖKKUŞAĞI"
+  },
+  {
+    "id": "general_013",
+    "category": "GENEL KÜLTÜR",
+    "answer": "MİKROSKOP"
+  },
+  {
+    "id": "turkey_001",
+    "category": "TÜRKİYE",
+    "answer": "KAPADOKYA"
+  },
+  {
+    "id": "turkey_002",
+    "category": "TÜRKİYE",
+    "answer": "PAMUKKALE"
+  },
+  {
+    "id": "turkey_003",
+    "category": "TÜRKİYE",
+    "answer": "EFES ANTİK KENTİ"
+  },
+  {
+    "id": "turkey_004",
+    "category": "TÜRKİYE",
+    "answer": "NEMRUT DAĞI"
+  },
+  {
+    "id": "turkey_005",
+    "category": "TÜRKİYE",
+    "answer": "SÜMELA MANASTIRI"
+  },
+  {
+    "id": "turkey_006",
+    "category": "TÜRKİYE",
+    "answer": "GALATA KULESİ"
+  },
+  {
+    "id": "turkey_007",
+    "category": "TÜRKİYE",
+    "answer": "KIZ KULESİ"
+  },
+  {
+    "id": "turkey_008",
+    "category": "TÜRKİYE",
+    "answer": "AYASOFYA"
+  },
+  {
+    "id": "turkey_009",
+    "category": "TÜRKİYE",
+    "answer": "ANITKABİR"
+  },
+  {
+    "id": "turkey_010",
+    "category": "TÜRKİYE",
+    "answer": "UZUNGÖL"
+  },
+  {
+    "id": "turkey_011",
+    "category": "TÜRKİYE",
+    "answer": "VAN GÖLÜ"
+  },
+  {
+    "id": "turkey_012",
+    "category": "TÜRKİYE",
+    "answer": "AĞRI DAĞI"
+  },
+  {
+    "id": "turkey_013",
+    "category": "TÜRKİYE",
+    "answer": "TOPKAPI SARAYI"
+  }
+]
