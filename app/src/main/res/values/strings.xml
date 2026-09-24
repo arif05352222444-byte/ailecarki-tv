@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aile Çarkı</string>
+    <string name="title">AİLE ÇARKI</string>
+    <string name="tagline">Ailecek oyna, birlikte kazan!</string>
+
+    <!-- Ana menü -->
+    <string name="menu_new_game">YENİ OYUN</string>
+    <string name="menu_continue">DEVAM ET</string>
+    <string name="menu_settings">AYARLAR</string>
+    <string name="menu_exit">ÇIKIŞ</string>
+
+    <!-- Oyuncu ekranı -->
+    <string name="setup_title">OYUNCU İSİMLERİ</string>
+    <string name="setup_subtitle">Oyuna başlamak için oyuncu isimlerini girin.</string>
+    <string name="setup_player">OYUNCU %1$d</string>
+    <string name="setup_name_hint">İsim gir</string>
+    <string name="setup_add">+ OYUNCU EKLE</string>
+    <string name="setup_remove">OYUNCU SİL</string>
+    <string name="setup_random">RASTGELE İSİM</string>
+    <string name="setup_start">OYUNU BAŞLAT</string>
+    <string name="setup_empty_warning">Tüm oyuncuların ismi dolu olmalı.</string>
+    <string name="setup_duplicate_warning">Aynı isim iki kez kullanılmış.</string>
+    <string name="setup_name_dialog">OYUNCU %1$d İSMİ</string>
+    <string name="remote_help_title">KUMANDA YARDIMI</string>
+    <string name="remote_help_move">Yön tuşları ile gezin</string>
+    <string name="remote_help_ok">OK ile seç</string>
+    <string name="remote_help_min">En az 2, en fazla 6 oyuncu.</string>
+    <string name="back">GERİ</string>
+
+    <!-- Oyun -->
+    <string name="category_label">KATEGORİ:</string>
+    <string name="round_label">TUR %1$d / %2$d</string>
+    <string name="final_label">FİNAL</string>
+    <string name="your_turn">SIRA SENDE</string>
+    <string name="turn_of">%1$s, sıra sende!</string>
+    <string name="action_spin">ÇARKI ÇEVİR</string>
+    <string name="action_vowel">SESLİ HARF AL (%1$d)</string>
+    <string name="action_solve">ÇÖZ</string>
+    <string name="points_value">%1$s PUAN</string>
+    <string name="pick_consonant_for">%1$s PUAN İÇİN HARF SEÇ</string>
+    <string name="pick_joker">JOKER: HARF DOĞRUYSA %1$s PUAN</string>
+    <string name="pick_vowel">SESLİ HARF SEÇ (−%1$d PUAN)</string>
+    <string name="double_active">2X AKTİF</string>
+    <string name="double_hint">2X! Sıradaki doğru harf çift puan. Tekrar çevir!</string>
+    <string name="hint_consonant_only">Yalnızca ünsüz harfler seçilebilir</string>
+    <string name="solve_title">CEVABI GİR</string>
+    <string name="input_space">BOŞLUK</string>
+    <string name="input_delete">SİL</string>
+    <string name="input_clear">TEMİZLE</string>
+    <string name="input_ok">TAMAM</string>
+    <string name="input_system_keyboard">SİSTEM KLAVYESİ</string>
+
+    <!-- Olay bannerları -->
+    <string name="ev_letters_found">%1$d HARF</string>
+    <string name="ev_plus_points">+%1$s PUAN</string>
+    <string name="ev_letter_missing">%1$s YOK!</string>
+    <string name="ev_bankrupt">İFLAS!</string>
+    <string name="ev_lose_turn">SIRA GEÇTİ</string>
+    <string name="ev_double">2X!</string>
+    <string name="ev_vowel_cost">−%1$d PUAN</string>
+    <string name="ev_correct">DOĞRU CEVAP!</string>
+    <string name="ev_wrong">YANLIŞ CEVAP</string>
+    <string name="ev_next_turn">SIRA: %1$s</string>
+
+    <!-- Tur sonu -->
+    <string name="round_complete">TUR TAMAMLANDI</string>
+    <string name="round_winner">Turu kazanan: %1$s</string>
+    <string name="next_round">SONRAKİ TUR</string>
+    <string name="go_final">FİNALE GEÇ</string>
+
+    <!-- Final -->
+    <string name="final_finalist">FİNALİST: %1$s</string>
+    <string name="final_given">Verilen harfler: %1$s</string>
+    <string name="final_pick_status">%1$d ÜNSÜZ + %2$d SESLİ SEÇ  (ünsüz %3$d/%1$d · sesli %4$d/%2$d)</string>
+    <string name="final_time_left">%1$d SN</string>
+    <string name="final_enter_answer">CEVABI YAZ</string>
+    <string name="final_win_title">BÜYÜK FİNAL KAZANILDI!</string>
+    <string name="final_win_sub">Tebrikler %1$s!</string>
+    <string name="final_lose_title">FİNAL BİTTİ</string>
+    <string name="final_lose_sub">Doğru cevap açıldı.</string>
+
+    <!-- Oyun sonu -->
+    <string name="game_over">OYUN BİTTİ</string>
+    <string name="champion">ŞAMPİYON: %1$s</string>
+    <string name="main_menu">ANA MENÜ</string>
+
+    <!-- Çıkış -->
+    <string name="exit_title">Oyundan çıkılsın mı?</string>
+    <string name="exit_body">Oyun kaydedildi. Ana menüden DEVAM ET ile dönebilirsiniz.</string>
+    <string name="exit_stay">OYUNA DÖN</string>
+    <string name="exit_leave">ANA MENÜ</string>
+
+    <!-- Ayarlar -->
+    <string name="settings_title">AYARLAR</string>
+    <string name="set_host">SUNUCU SESİ</string>
+    <string name="set_music">MÜZİK</string>
+    <string name="set_effects">EFEKTLER</string>
+    <string name="set_ui">UI SESLERİ</string>
+    <string name="set_rounds">TUR SAYISI</string>
+    <string name="set_vowel">SESLİ HARF BEDELİ</string>
+    <string name="set_final">FİNAL SÜRESİ</string>
+    <string name="on">AÇIK</string>
+    <string name="off">KAPALI</string>
+    <string name="seconds">%1$d sn</string>
+    <string name="settings_hint">◀ ▶ ile değiştir · OK ile sonraki değer</string>
+</resources>
